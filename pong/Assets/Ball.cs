@@ -7,8 +7,8 @@ using Random = UnityEngine.Random;
 public class Ball : MonoBehaviour
 {
 
-    public float speedI = 5f;
-    private float movementPerSecond = 80f;
+    public float speedI = 1f;
+    public float movementPerSecond = 1f;
     public float baseMovement = 1f;
     private Rigidbody rBody;
     private int resetDirection;
@@ -28,6 +28,7 @@ public class Ball : MonoBehaviour
     
     void RoundStart(){
         float rand = Random.Range(0, 2);
+        
         if (rand < 1)
         {
             rBody.velocity = new Vector3(10, 0,0) * movementPerSecond * Time.deltaTime;
