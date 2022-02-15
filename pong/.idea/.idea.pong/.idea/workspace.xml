@@ -15,9 +15,6 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Score.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -71,6 +68,14 @@
       <workItem from="1644208443604" duration="597000" />
       <workItem from="1644370935864" duration="2114000" />
       <workItem from="1644373599101" duration="1107000" />
+      <workItem from="1644450450451" duration="5993000" />
+      <workItem from="1644457619738" duration="3447000" />
+      <workItem from="1644461530775" duration="10498000" />
+      <workItem from="1644534349882" duration="20029000" />
+      <workItem from="1644830434531" duration="451000" />
+      <workItem from="1644880489011" duration="1000" />
+      <workItem from="1644880617938" duration="662000" />
+      <workItem from="1644881517950" duration="399000" />
     </task>
     <servers />
   </component>
